@@ -1,0 +1,51 @@
+# Geotechnik — Hamburg
+
+> Geotechnical engineering services in Hamburg, Deutschland.
+
+## Services
+- [Anker](https://hamburg.geotechnik.sbs/anker/)
+- [Atterberg Grenzen](https://hamburg.geotechnik.sbs/atterberg-grenzen/)
+- [Aushub](https://hamburg.geotechnik.sbs/aushub/)
+- [Aushub Monitoring](https://hamburg.geotechnik.sbs/aushub-monitoring/)
+- [Bodenplatten](https://hamburg.geotechnik.sbs/bodenplatten/)
+- [Bodenverbesserung](https://hamburg.geotechnik.sbs/bodenverbesserung/)
+- [Boschungsstabilitat](https://hamburg.geotechnik.sbs/boschungsstabilitat/)
+- [Cbr Strasse](https://hamburg.geotechnik.sbs/cbr-strasse/)
+- [Cpt Versuch](https://hamburg.geotechnik.sbs/cpt-versuch/)
+- [Erdbebenisolierung](https://hamburg.geotechnik.sbs/erdbebenisolierung/)
+- [Flexibler Belag](https://hamburg.geotechnik.sbs/flexibler-belag/)
+- [Fundamente](https://hamburg.geotechnik.sbs/fundamente/)
+- [Grundungen](https://hamburg.geotechnik.sbs/grundungen/)
+- [Hange](https://hamburg.geotechnik.sbs/hange/)
+- [In Situ Durchlassigkeit](https://hamburg.geotechnik.sbs/in-situ-durchlassigkeit/)
+- [Injektionen](https://hamburg.geotechnik.sbs/injektionen/)
+- [Korngrossenanalyse](https://hamburg.geotechnik.sbs/korngrossenanalyse/)
+- [Labor](https://hamburg.geotechnik.sbs/labor/)
+- [Labor In Situ](https://hamburg.geotechnik.sbs/labor-in-situ/)
+- [Masw](https://hamburg.geotechnik.sbs/masw/)
+- [Pfahle](https://hamburg.geotechnik.sbs/pfahle/)
+- [Proctor Versuche](https://hamburg.geotechnik.sbs/proctor-versuche/)
+- [Ruttelverdichtung](https://hamburg.geotechnik.sbs/ruttelverdichtung/)
+- [Sandkegel Dichte](https://hamburg.geotechnik.sbs/sandkegel-dichte/)
+- [Schottersaulen](https://hamburg.geotechnik.sbs/schottersaulen/)
+- [Schurfgruben](https://hamburg.geotechnik.sbs/schurfgruben/)
+- [Seismik](https://hamburg.geotechnik.sbs/seismik/)
+- [Seismische Mikrozonierung](https://hamburg.geotechnik.sbs/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://hamburg.geotechnik.sbs/seismische-refraktion/)
+- [Spt Bohrung](https://hamburg.geotechnik.sbs/spt-bohrung/)
+- [Starrer Belag](https://hamburg.geotechnik.sbs/starrer-belag/)
+- [Strassenbau](https://hamburg.geotechnik.sbs/strassenbau/)
+- [Stutzmauern](https://hamburg.geotechnik.sbs/stutzmauern/)
+- [Tiefe Aushube](https://hamburg.geotechnik.sbs/tiefe-aushube/)
+- [Triaxialversuch](https://hamburg.geotechnik.sbs/triaxialversuch/)
+- [Untersuchung](https://hamburg.geotechnik.sbs/untersuchung/)
+- [Verflussigung](https://hamburg.geotechnik.sbs/verflussigung/)
+- [Weichbodentunnel](https://hamburg.geotechnik.sbs/weichbodentunnel/)
+- [Widerstand](https://hamburg.geotechnik.sbs/widerstand/)
+
+## Contact
+- Website: https://hamburg.geotechnik.sbs/
+
+## About
+This site provides geotechnical engineering services in Hamburg, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
